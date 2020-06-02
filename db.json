@@ -5,9 +5,11 @@
       "title": "hello"
     }
   ],
-  "profiles": {
-    { "id" : 1,
+  "profiles": [
+   {
+     "id" : 1,
     "name": "amin"
   }
- }
+    ]
+ 
 }
